@@ -7,7 +7,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/beiklive/beiklive/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beiklive&theme=xcode)](https://github.com/beiklive)
-
+![Alt](https://repobeats.axiom.co/api/embed/b2c4c3967ba81062a723d9d9c9fc37dfec869543.svg "Repobeats analytics image")
 #  🙋 Hello
 ![](https://visitor-badge.glitch.me/badge?page_id=beiklive)
 ![](https://img.shields.io/github/last-commit/beiklive/beiklive?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
@@ -58,5 +58,3 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
-![Alt](https://repobeats.axiom.co/api/embed/7eb9af270e78cce825572698f5c84867557ccec9.svg "Repobeats analytics image")
