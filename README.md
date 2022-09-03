@@ -58,3 +58,5 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
+
+![Alt](https://repobeats.axiom.co/api/embed/7eb9af270e78cce825572698f5c84867557ccec9.svg "Repobeats analytics image")
