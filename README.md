@@ -1,10 +1,5 @@
-
-
-
-
-
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/beiklive/beiklive/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SSSS-ODDEYE/.github/master/assets/github-contribution-grid-snake-beiklive.svg" /></div>
 
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beiklive&theme=xcode)](https://github.com/beiklive)
 <!-- https://repobeats.axiom.co/ -->
