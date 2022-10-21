@@ -1,8 +1,3 @@
-
-
-
-
-
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/SSSS-ODDEYE/.github/master/assets/github-contribution-grid-snake-beiklive.svg" /></div>
 
