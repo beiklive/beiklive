@@ -4,7 +4,7 @@
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beiklive&theme=xcode)](https://github.com/beiklive)
 <!-- https://repobeats.axiom.co/ -->
 
-![Alt](https://repobeats.axiom.co/api/embed/a6691cf097ec3f989f7a7677b7cc6e9693331037.svg "Repobeats analytics image")
+
 #  🙋 Hello
 ![](https://visitor-badge.glitch.me/badge?page_id=beiklive)
 ![](https://img.shields.io/github/last-commit/beiklive/beiklive?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
