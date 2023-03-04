@@ -1,10 +1,6 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://github.com/Ohto-Ai-Dev/res/raw/master/assets/beiklive/github-contribution-grid-snake.svg" /></div>
 
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beiklive&theme=xcode)](https://github.com/beiklive)
-<!-- https://repobeats.axiom.co/ -->
-
-
 
 #  🙋 Hello
 ![vis](https://gv.halberd.cn/beiklive?theme=stroke-colorful&active=3200ff&deactive=f1f1f1&len=6&speed=40&size=60&space=5&tail=1)
@@ -38,9 +34,6 @@
 &emsp;&emsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0078D6)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=003B57)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
@@ -48,12 +41,9 @@
 </div>
 <!-- Gif -->
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
