@@ -33,11 +33,7 @@
 ### 🧰 Tools:
 
 &emsp;&emsp;
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0078D6)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
+
 	
 </div>
 <!-- Gif -->
