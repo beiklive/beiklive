@@ -17,17 +17,18 @@
 ### 💪 Learning: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000?&logo=C%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Linux](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![Shell](https://img.shields.io/badge/Shell-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/C/C.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/C%2B%2B/C%2B%2B.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/GitHub/GitHub.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Html/HTML.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Java/Java.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Node.js/Node.js.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Photoshop/Photoshop.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Python/Python.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/RaspberryPi/Raspberry%20Pi.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Ubuntu/Ubuntu.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Vim/VIM.png" width="100px">
+<img src="https://github.com/beiklive/ServiceLogos/raw/main/Vue/Vue.png" width="100px">
 
 ### 🧰 Tools:
 
