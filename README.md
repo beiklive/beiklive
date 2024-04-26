@@ -12,10 +12,10 @@
 <div style="height:274px;display: flex;flex-direction: column">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=beiklive&hide_title=true&hide_border=true&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 	<img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiklive&layout=compact&theme=highcontrast" />
-</div>	
+</div>	</div>
 	
-### 💪 Learning: 
-
+## 💪 Learning: 
+<div align="center">
 &emsp;&emsp;
 <img src="https://github.com/beiklive/ServiceLogos/raw/main/C/C.png" width="100px">
 <img src="https://github.com/beiklive/ServiceLogos/raw/main/C%2B%2B/C%2B%2B.png" width="100px">
@@ -29,18 +29,15 @@
 <img src="https://github.com/beiklive/ServiceLogos/raw/main/Ubuntu/Ubuntu.png" width="100px">
 <img src="https://github.com/beiklive/ServiceLogos/raw/main/Vim/VIM.png" width="100px">
 <img src="https://github.com/beiklive/ServiceLogos/raw/main/Vue/Vue.png" width="100px">
+</div>
 
-### 🧰 Tools:
+## 🧰 Tools:
 
 &emsp;&emsp;
 
 	
-</div>
-<!-- Gif -->
-<div align="center">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0078D6)
+![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
